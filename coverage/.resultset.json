@@ -36,7 +36,7 @@
       "/Users/gingergriffis/ruby_projects/ticketee/app/helpers/application_helper.rb": [
         1,
         1,
-        203,
+        199,
         null,
         null,
         1,
@@ -136,7 +136,7 @@
         1,
         null,
         1,
-        60,
+        56,
         null,
         null,
         1,
@@ -179,10 +179,6 @@
         1,
         1,
         25,
-        12,
-        null,
-        13,
-        null,
         null,
         4,
         null,
@@ -197,9 +193,14 @@
         1,
         1,
         1,
-        1,
-        13,
         null,
+        1,
+        37,
+        null,
+        null,
+        null,
+        1,
+        81,
         null,
         null
       ],
@@ -277,6 +278,6 @@
         null
       ]
     },
-    "timestamp": 1374183593
+    "timestamp": 1374185414
   }
 }
