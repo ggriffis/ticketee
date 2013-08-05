@@ -15,4 +15,6 @@
 /tmp
 
 # Ignore simplecov output (may add back in later)
-#/coverage
+/coverage
+/public/source_maps/
+/public/assets/source_maps

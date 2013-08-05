@@ -7,7 +7,6 @@ gem 'rails', '3.2.13'
 
 gem 'sqlite3'
 
-
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -36,6 +35,9 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+group :development do
+  gem "coffee-rails-source-maps"
+end
 
 group :test, :development do
 	gem 'rspec-rails', '~> 2.11'
@@ -50,5 +52,9 @@ group :test do
 end
 
 gem 'devise', '2.1.0'
+
 gem 'cancan', '1.6.7'
+
+gem 'paperclip', '2.7.0'
+
 gem 'dynamic_form', '1.1.4'
