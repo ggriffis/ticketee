@@ -278,6 +278,7 @@
         null,
         1,
         5,
+        20,
         null,
         null,
         1,
@@ -359,6 +360,7 @@
         1,
         null,
         1,
+        1,
         null
       ],
       "/Users/gingergriffis/ruby_projects/ticketee/app/controllers/users_controller.rb": [
@@ -381,8 +383,14 @@
         null,
         null,
         null
+      ],
+      "/Users/gingergriffis/ruby_projects/ticketee/app/models/asset.rb": [
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1375729242
+    "timestamp": 1375734132
   }
 }
